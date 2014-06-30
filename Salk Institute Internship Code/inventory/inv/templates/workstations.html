@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<title>Workstations</title>
+
+
+	</head>
+<body>
+
+<table>
+{% for wk in workstations %}
+<tr><td>{{wk.name}}</td><td>{{wk.version}}</td></tr>
+{% endfor %}
+
+<button type="button" onclick="myFunction()">Upload!</button>
+</table>
+</body>

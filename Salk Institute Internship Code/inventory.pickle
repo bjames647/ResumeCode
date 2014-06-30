@@ -1,0 +1,470 @@
+(lp0
+(dp1
+S'version'
+p2
+S'1.0.0'
+p3
+sS'name'
+p4
+S'msxml4'
+p5
+sa(dp6
+g2
+S'3.4.0'
+p7
+sg4
+S'Download Navigator'
+p8
+sa(dp9
+g2
+S'1.2.287'
+p10
+sg4
+S'Facebook Video Calling 1.2.0.287'
+p11
+sa(dp12
+g2
+S'3.0.8.0'
+p13
+sg4
+S'Ventrilo Client for Windows x64'
+p14
+sa(dp15
+g2
+S'11.0.371'
+p16
+sg4
+S'Vegas Pro 11.0 (64-bit)'
+p17
+sa(dp18
+g2
+S'3.5.92.0'
+p19
+sg4
+S'Microsoft Games for Windows - LIVE Redistributable'
+p20
+sa(dp21
+g2
+S'2013.0328.2218.38225'
+p22
+sg4
+S'AMD VISION Engine Control Center'
+p23
+sa(dp24
+g2
+S'10.0.40219'
+p25
+sg4
+S'Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219'
+p26
+sa(dp27
+g2
+S'2013.0328.2217.38225'
+p28
+sg4
+S'CCC Help Russian'
+p29
+sa(dp30
+g2
+S'2013.0328.2217.38225'
+p31
+sg4
+S'CCC Help Japanese'
+p32
+sa(dp33
+g2
+S'2013.0328.2217.38225'
+p34
+sg4
+S'CCC Help Dutch'
+p35
+sa(dp36
+g2
+S'2013.0328.2217.38225'
+p37
+sg4
+S'CCC Help Czech'
+p38
+sa(dp39
+g2
+S'2013.0328.2217.38225'
+p40
+sg4
+S'CCC Help German'
+p41
+sa(dp42
+g2
+S'1.00.0000'
+p43
+sg4
+S'Catalyst Control Center - Branding'
+p44
+sa(dp45
+g2
+S'2.00.0000'
+p46
+sg4
+S'AMD Drag and Drop Transcoding'
+p47
+sa(dp48
+g2
+S'1.9.2'
+p49
+sg4
+S'Python 2.7 pygame-1.9.2a0'
+p50
+sa(dp51
+g2
+S'1.0.0.0'
+p52
+sg4
+S'Epson Customer Participation'
+p53
+sa(dp54
+g2
+S'8.0.59193'
+p55
+sg4
+S'Microsoft Visual C++ 2005 Redistributable'
+p56
+sa(dp57
+g2
+S'2013.0328.2217.38225'
+p58
+sg4
+S'CCC Help Finnish'
+p59
+sa(dp60
+g2
+S'7.0.210'
+p61
+sg4
+S'Java 7 Update 21'
+p62
+sa(dp63
+g2
+S'1.0.2'
+p64
+sg4
+S'DefianceRuntimes'
+p65
+sa(dp66
+g2
+S'2013.0328.2217.38225'
+p67
+sg4
+S'CCC Help English'
+p68
+sa(dp69
+g2
+S'2013.0328.2217.38225'
+p70
+sg4
+S'CCC Help Danish'
+p71
+sa(dp72
+g2
+S'2013.0328.2218.38225'
+p73
+sg4
+S'ccc-utility64'
+p74
+sa(dp75
+g2
+S'2013.0328.2217.38225'
+p76
+sg4
+S'CCC Help Hungarian'
+p77
+sa(dp78
+g2
+S'3.1.186.0'
+p79
+sg4
+S'Microsoft Games for Windows - LIVE'
+p80
+sa(dp81
+g2
+S'8.0.911.0'
+p82
+sg4
+S'AMD Catalyst Install Manager'
+p83
+sa(dp84
+g2
+S'13.0.0.1'
+p85
+sg4
+S'Visual Studio 2010 x64 Redistributables'
+p86
+sa(dp87
+g2
+S'9.0.30729.6161'
+p88
+sg4
+S'Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161'
+p89
+sa(dp90
+g2
+S'4.20.9876.0'
+p91
+sg4
+S'MSXML 4.0 SP2 (KB973688)'
+p92
+sa(dp93
+g2
+S'2013.0328.2217.38225'
+p94
+sg4
+S'CCC Help Norwegian'
+p95
+sa(dp96
+g2
+S'2.0.34.0'
+p97
+sg4
+S'Renesas Electronics USB 3.0 Host Controller Driver'
+p98
+sa(dp99
+g2
+S'2013.0328.2217.38225'
+p100
+sg4
+S'CCC Help Swedish'
+p101
+sa(dp102
+g2
+S'2013.0328.2218.38225'
+p103
+sg4
+S'Catalyst Control Center Graphics Previews Common'
+p104
+sa(dp105
+g2
+S'2013.0328.2217.38225'
+p106
+sg4
+S'CCC Help Thai'
+p107
+sa(dp108
+g2
+S'1.0.0.0'
+p109
+sg4
+S'Steam'
+p110
+sa(dp111
+g2
+S'2013.0328.2217.38225'
+p112
+sg4
+S'CCC Help Spanish'
+p113
+sa(dp114
+g2
+S'2013.0328.2218.38225'
+p115
+sg4
+S'Catalyst Control Center InstallProxy'
+p116
+sa(dp117
+g2
+S'2.7.2150'
+p118
+sg4
+S'Python 2.7.2 (64-bit)'
+p119
+sa(dp120
+g2
+S'10.0.30319'
+p121
+sg4
+S'Microsoft Visual C++ 2010  x64 Redistributable - 10.0.30319'
+p122
+sa(dp123
+g2
+S'8.0.61001'
+p124
+sg4
+S'Microsoft Visual C++ 2005 Redistributable'
+p125
+sa(dp126
+g2
+S'2013.0328.2218.38225'
+p127
+sg4
+S'Catalyst Control Center Localization All'
+p128
+sa(dp129
+g2
+S'2013.0328.2217.38225'
+p130
+sg4
+S'CCC Help Chinese Standard'
+p131
+sa(dp132
+g2
+S'6.500.3165.0'
+p133
+sg4
+S'Windows Live ID Sign-in Assistant'
+p134
+sa(dp135
+g2
+S'2013.0328.2217.38225'
+p136
+sg4
+S'CCC Help Polish'
+p137
+sa(dp138
+g2
+S'2013.0328.2218.38225'
+p139
+sg4
+S'AMD Fuel'
+p140
+sa(dp141
+g2
+S'9.0.30729'
+p142
+sg4
+S'Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.17'
+p143
+sa(dp144
+g2
+S'2.5.709.2'
+p145
+sg4
+S'AMD APP SDK Runtime'
+p146
+sa(dp147
+g2
+S'2013.0328.2217.38225'
+p148
+sg4
+S'CCC Help Italian'
+p149
+sa(dp150
+g2
+S'5.1.20513.0'
+p151
+sg4
+S'Microsoft Silverlight'
+p152
+sa(dp153
+g2
+S'2013.0328.2217.38225'
+p154
+sg4
+S'CCC Help Portuguese'
+p155
+sa(dp156
+g2
+S'2013.0328.2217.38225'
+p157
+sg4
+S'CCC Help Greek'
+p158
+sa(dp159
+g2
+S'3.01.0000'
+p160
+sg4
+S'Epson Event Manager'
+p161
+sa(dp162
+g2
+S'1.0.80328.2204'
+p163
+sg4
+S'AMD Media Foundation Decoders'
+p164
+sa(dp165
+g2
+S'4.20.9870.0'
+p166
+sg4
+S'MSXML 4.0 SP2 (KB954430)'
+p167
+sa(dp168
+g2
+S'4.0.30319'
+p169
+sg4
+S'Microsoft .NET Framework 4 Client Profile'
+p170
+sa(dp171
+g2
+S'.6.106'
+p172
+sg4
+S'SkypeT 6.6                                                     6'
+p173
+sa(dp174
+g2
+S'12.10.100.30328'
+p175
+sg4
+S'AMD Accelerated Video Transcoding'
+p176
+sa(dp177
+g2
+S'1.0'
+p178
+sg4
+S'MSVCRT Redists'
+p179
+sa(dp180
+g2
+S'2013.0328.2217.38225'
+p181
+sg4
+S'CCC Help Korean'
+p182
+sa(dp183
+g2
+S'2.6.4037.0'
+p184
+sg4
+S'Windows Movie Maker 2.6'
+p185
+sa(dp186
+g2
+S'2.1.9.5'
+p187
+sg4
+S'Java Auto Updater'
+p188
+sa(dp189
+g2
+S'2013.0328.2217.38225'
+p190
+sg4
+S'CCC Help French'
+p191
+sa(dp192
+g2
+S'2013.0328.2217.38225'
+p193
+sg4
+S'CCC Help Chinese Traditional'
+p194
+sa(dp195
+g2
+S'2013.0328.2217.38225'
+p196
+sg4
+S'CCC Help Turkish'
+p197
+sa(dp198
+g2
+S''
+p199
+sg4
+g199
+sa(dp200
+g2
+g199
+sg4
+g199
+sa.

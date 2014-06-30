@@ -1,0 +1,129 @@
+body{
+    margin:0;
+    padding:0;
+	background-color:#E6E6E6;
+}
+
+#wrapper{
+	width:70%;
+	margin-left:auto;
+	margin-right:auto;
+    background-color:white; 
+	min-height: 650px;
+}
+
+#header{
+    background-color:#E8F4FD;
+    padding-top:10px;
+    padding-bottom:10px;
+	border-bottom: 2px solid #C0C0C0;
+	color:#2E6E9E;
+	font-size:150%;  
+}
+
+#leftBar{
+    float:left;
+    width:175px;
+    background-color:#E8F4FD;
+}
+
+#rightBar{
+	margin-left:180px;
+	min-height:500px;
+
+}
+#main{
+    background-color:white;
+	color:#191919;
+}
+
+#footer{
+    clear:both;
+	text-align:center;
+}
+
+#vertNav{
+	list-style-type:none;
+	font-weight:bold;
+	font-size:110%;
+
+}
+
+#vertNav ul{
+    color:white;
+	margin:0;
+	padding: 0;
+}
+
+#vertNav a{
+    text-decoration:none;
+	padding:10px;
+	display:block;
+	border-bottom: 2px solid #C0C0C0;
+
+}
+
+#vertNav a:link{ color:#2E6E9E}
+#vertNav a:visited{ color:#2E6E9E}
+#vertNav a:hover{ color:#E17009; background-color:#FFFFFF}
+
+div.ui-datepicker{
+	font-size:10px;
+}
+
+#heading{
+
+	margin-left: 110px;
+	display:inline;
+}
+
+#slogan{
+	margin-left:200px;
+	margin-top:-5px;
+}
+
+#headerImage{
+	position:absolute;
+}
+
+#gallery{
+	position:relative;
+
+}
+
+#gallery ul{
+	width: 300px;
+	list-style-type: none;
+}
+
+#gallery li{
+	display:inline;
+	float:left;
+	padding:10px;
+}
+
+#gallery img{
+	border-style:none;
+}
+
+#gallery a{
+	text-decoration:none;
+	color:#333;
+	font-style:italic;
+}
+
+#gallery span{
+	display:none;
+}
+
+#gallery a:hover span{
+	display:block;
+	position:absolute;
+	top:10px;
+	left:300px;
+	text-align:center;
+}
+
+#accordian{
+	min-height:500px;
+}

@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+    <meta charset="utf-8">
+    <title>Final Project</title>
+    <link rel="stylesheet" type="text/css" href="layout.css">
+	<link rel="stylesheet" href="css/redmond/jquery-ui-1.10.4.custom.css">
+	<script src="javascript/jquery.js"></script>
+	<script src="javascript/jquery-ui.js"></script>
+
+	<script type="text/javascript">
+		$(function() {
+			$( "#accordion" ).accordion();
+		});
+		$(function() {
+			$( "#datepicker" ).datepicker({ autoSize: true});
+		});
+	</script>
+</head>
+
+<body>
+<div id="wrapper">
+    
+    <div id="header">
+		<img id="headerImage" src="images\webIcon.png" alt="web icon">
+        <h1 id="heading">Brian James</h1>
+		<h4 id="slogan">Web Programming Final Website!</h4>
+    </div>
+    
+    <div id="leftBar">
+        <li id="vertNav">
+            <ul><a href="index.html">Home</a></ul>
+            <ul><a href="aboutMe.html">About Me</a></ul>
+            <ul><a href="myEXP.html">My Experiences</a></ul>
+            <ul><a href="otherWork.html">Other Work</a></ul>
+            <ul><a href="contactMe.html">Contact Me</a></ul>
+        </li>
+        <div id="datepicker"></div>
+    </div>
+    <div id="rightBar">
+		<div id="accordion">
+			<h3>Experiences With Programming</h3>
+				<div>
+					<p>
+					I started programming consistently in August of 2013 and I haven't stopped since then. I was lucky to get an internship at the Salk Institute programming in python.
+					I did that remotely from Iowa as the Salk Institute is in San Diego, California. Soon after I started python I jumped into C++ and took a class in it. After I learned
+					C++ I started to learn web development including HTML and CSS. Because of my experiences with programming and the languages I know I earned myself an internship at a company
+					in San Diego. This is a dream come true for me. 
+					</p>
+				</div>
+			
+		</div>
+
+    </div>
+		<div id="footer">
+			<p>Copyright Brian James | Design by Brian James</p>    
+		</div>
+    
+</div>
+</body>
+</html>

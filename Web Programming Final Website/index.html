@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+    <meta charset="utf-8">
+    <title>Final Project</title>
+    <link rel="stylesheet" type="text/css" href="layout.css">
+	<link rel="stylesheet" href="css/redmond/jquery-ui-1.10.4.custom.css">
+	<script src="javascript/jquery.js"></script>
+	<script src="javascript/jquery-ui.js"></script>
+
+	<script type="text/javascript">
+		$(function() {
+			$( "#accordion" ).accordion();
+		});
+		$(function() {
+			$( "#datepicker" ).datepicker({ autoSize: true});
+		});
+	</script>
+</head>
+
+<body>
+<div id="wrapper">
+    
+    <div id="header">
+		<img id="headerImage" src="images\webIcon.png" alt="web icon">
+        <h1 id="heading">Brian James</h1>
+		<h4 id="slogan">Web Programming Final Website!</h4>
+    </div>
+    
+    <div id="leftBar">
+        <li id="vertNav">
+            <ul><a href="index.html">Home</a></ul>
+            <ul><a href="aboutMe.html">About Me</a></ul>
+            <ul><a href="myEXP.html">My Experiences</a></ul>
+            <ul><a href="otherWork.html">Other Work</a></ul>
+            <ul><a href="contactMe.html">Contact Me</a></ul>
+        </li>
+        <div id="datepicker"></div>
+    </div>
+    <div id="rightBar">
+		<div id="accordion">
+			<h3>Moving Forward!</h3>
+				<div>
+					<p>
+					On May 24th I move to San Diego, California, to do an internship at a bio-tech startup. 
+					Thanks to this class I now have an understanding of HTML and CSS. This is nice in case 
+					I need to write any of that for them.This class has grown on me because I was expecting
+					to continue on in C++ which I really like. Instead, I've become more diverse in my 
+					knowledge of many programming languages.
+					</p>
+				</div>
+			<h3>Classes I'm Taking This Semester</h3>
+				<div>
+					<p>
+					High School Classes: 
+					</p>
+					<li>
+						<ul>Economics</ul>
+						<ul>Writer's Workshop</ul>
+						<ul>VREP</ul>	
+					</li>
+					<p>
+					College Classes: 
+					</p>
+					<li>
+						<ul>Web Programming</ul>
+						<ul>Into to Entrepreneurship</ul>
+						<ul>C++</ul>
+					</li>
+				</div>
+			
+		</div>
+
+    </div>
+		<div id="footer">
+			<p>Copyright Brian James | Design by Brian James</p>    
+		</div>
+    
+</div>
+</body>
+</html>

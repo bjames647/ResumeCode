@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+    <meta charset="utf-8">
+    <title>Final Project</title>
+    <link rel="stylesheet" type="text/css" href="layout.css">
+	<link rel="stylesheet" href="css/redmond/jquery-ui-1.10.4.custom.css">
+	<script src="javascript/jquery.js"></script>
+	<script src="javascript/jquery-ui.js"></script>
+
+	<script type="text/javascript">
+		$(function() {
+			$( "#accordion" ).accordion({heightStyle: "fill" });
+		});
+		$(function() {
+			$( "#datepicker" ).datepicker({ autoSize: true});
+		});
+	</script>
+</head>
+
+<body>
+<div id="wrapper">
+    
+    <div id="header">
+		<img id="headerImage" src="images\webIcon.png" alt="web icon">
+        <h1 id="heading">Brian James</h1>
+		<h4 id="slogan">Web Programming Final Website!</h4>
+    </div>
+    
+    <div id="leftBar">
+        <li id="vertNav">
+            <ul><a href="index.html">Home</a></ul>
+            <ul><a href="aboutMe.html">About Me</a></ul>
+            <ul><a href="myEXP.html">My Experiences</a></ul>
+            <ul><a href="otherWork.html">Other Work</a></ul>
+            <ul><a href="contactMe.html">Contact Me</a></ul>
+        </li>
+        <div id="datepicker"></div>
+    </div>
+    <div id="rightBar">
+		<div id="accordion">
+		<h3>Image Gallery About Me</h3>
+
+			<div id="gallery">
+			<ul>
+				<li>
+				<a href="images\gallery\brianJames.jpg"><img src="images\gallery\brianJames.jpg" width="100" height="100" alt="Brian James">
+				<span><img src="images\gallery\brianJames.jpg" width="300" height="300" alt="Brian James"><br>Me, Brian James</span></a>
+				</li>
+				
+				<li>
+				<a href="images\gallery\girlfriend.jpg"><img src="images\gallery\girlfriend.jpg" width="82" height="100" alt="girlfriend">
+				<span><img src="images\gallery\girlfriend.jpg" width="247" height="300" alt="girlfriend"><br>My girlfriend, Queen</span></a>
+				</li>
+				
+				<li>
+				<a href="images\gallery\IanandHailey.jpg"><img src="images\gallery\IanandHailey.jpg" width="75" height="100" alt="Ian and Hailey">
+				<span><img src="images\gallery\IanandHailey.jpg" width="300" height="335" alt="Ian and Hailey"><br>Ian, my brother, and Hailey, Ian's fiancée</span></a>
+				</li>
+				
+				<li>
+				<a href="images\gallery\website.png"><img src="images\gallery\website.png" width="100" height="75" alt="website">
+				<span><img src="images\gallery\website.png" width="300" height="279" alt="website"><br>The website I designed that made it to nationals in the Nation History Day competition in Washington, D.C.</span></a>
+				</li>
+			
+			</ul>
+			</div>
+		</div>
+		
+		
+		
+		
+
+    </div>
+		<div id="footer">
+			<p>Copyright Brian James | Design by Brian James</p>    
+		</div>
+    
+</div>
+</body>
+</html>
